@@ -1,0 +1,65 @@
+{
+  "buildFiles": [
+    "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\.cxx\\Debug\\a36x3r3t\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\.cxx\\Debug\\a36x3r3t\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "AccExpInterpolator::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "AccExpInterpolator",
+      "output": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libAccExpInterpolator.so",
+      "runtimeFiles": []
+    },
+    "GLRender::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "GLRender",
+      "output": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libGLRender.so",
+      "runtimeFiles": [
+        "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libWindowsLauncher.so",
+        "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libMatrix.so",
+        "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libAccExpInterpolator.so"
+      ]
+    },
+    "Matrix::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "Matrix",
+      "output": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libMatrix.so",
+      "runtimeFiles": []
+    },
+    "WindowsLauncher::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "WindowsLauncher",
+      "output": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libWindowsLauncher.so",
+      "runtimeFiles": [
+        "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\build\\intermediates\\cxx\\Debug\\a36x3r3t\\obj\\x86\\libAccExpInterpolator.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

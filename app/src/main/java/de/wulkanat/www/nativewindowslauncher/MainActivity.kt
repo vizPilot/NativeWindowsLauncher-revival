@@ -1,12 +1,11 @@
 package de.wulkanat.www.nativewindowslauncher
 
 import android.opengl.GLSurfaceView
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Window
 import android.view.WindowManager
 import android.widget.RelativeLayout
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     lateinit var glSurfaceView: GLSurf
@@ -20,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         glSurfaceView = GLSurf(this, getStatusBarHeightPixles(), getNavBarHeightPixels())
         setContentView(R.layout.activity_main)
 
+        val mainLayout = findViewById<RelativeLayout>(R.id.mainLayout)
         val glParams = RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.MATCH_PARENT, RelativeLayout.LayoutParams.MATCH_PARENT)
         mainLayout.addView(glSurfaceView, glParams)
     }

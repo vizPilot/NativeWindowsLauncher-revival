@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/armeabi-v7a",
+  "command": "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi23 --sysroot=C:/Users/vicen/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGLRender_EXPORTS -ID:/land-rom/NativeWindowsLauncher-revival/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\GLRender.dir\\src\\main\\cpp\\GLRender.cpp.o -c D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\GLRender.cpp",
+  "file": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\GLRender.cpp"
+},
+{
+  "directory": "D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/armeabi-v7a",
+  "command": "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi23 --sysroot=C:/Users/vicen/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DAccExpInterpolator_EXPORTS -ID:/land-rom/NativeWindowsLauncher-revival/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\AccExpInterpolator.dir\\src\\main\\cpp\\AccExpInterpolator.cpp.o -c D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\AccExpInterpolator.cpp",
+  "file": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\AccExpInterpolator.cpp"
+},
+{
+  "directory": "D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/armeabi-v7a",
+  "command": "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi23 --sysroot=C:/Users/vicen/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWindowsLauncher_EXPORTS -ID:/land-rom/NativeWindowsLauncher-revival/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\WindowsLauncher.dir\\src\\main\\cpp\\WindowsLauncher.cpp.o -c D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\WindowsLauncher.cpp",
+  "file": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\WindowsLauncher.cpp"
+},
+{
+  "directory": "D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/armeabi-v7a",
+  "command": "C:\\Users\\vicen\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi23 --sysroot=C:/Users/vicen/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMatrix_EXPORTS -ID:/land-rom/NativeWindowsLauncher-revival/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\Matrix.dir\\src\\main\\cpp\\Matrix.cpp.o -c D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\Matrix.cpp",
+  "file": "D:\\land-rom\\NativeWindowsLauncher-revival\\app\\src\\main\\cpp\\Matrix.cpp"
+}
+]

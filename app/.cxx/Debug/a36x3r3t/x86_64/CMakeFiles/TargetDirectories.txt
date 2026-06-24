@@ -1,0 +1,6 @@
+D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/x86_64/CMakeFiles/GLRender.dir
+D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/x86_64/CMakeFiles/AccExpInterpolator.dir
+D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/x86_64/CMakeFiles/WindowsLauncher.dir
+D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/x86_64/CMakeFiles/Matrix.dir
+D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/x86_64/CMakeFiles/edit_cache.dir
+D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/x86_64/CMakeFiles/rebuild_cache.dir

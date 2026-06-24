@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AccExpInterpolator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AccExpInterpolator-Debug-055ef9c3b602db16a17a.json",
+					"name" : "AccExpInterpolator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GLRender::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GLRender-Debug-896c87f866f46d564f4e.json",
+					"name" : "GLRender",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Matrix-Debug-2868694e399883f9d7fc.json",
+					"name" : "Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WindowsLauncher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WindowsLauncher-Debug-6086dd728f967358f8cd.json",
+					"name" : "WindowsLauncher",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/land-rom/NativeWindowsLauncher-revival/app/.cxx/Debug/a36x3r3t/x86",
+		"source" : "D:/land-rom/NativeWindowsLauncher-revival/app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

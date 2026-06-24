@@ -1,0 +1,9 @@
+# ninja log v5
+12	386	8040214268746893	CMakeFiles/AccExpInterpolator.dir/src/main/cpp/AccExpInterpolator.cpp.o	3371f7eb377c45ab
+544	794	8040214274377336	../../../../build/intermediates/cxx/Debug/a36x3r3t/obj/x86_64/libAccExpInterpolator.so	d6bd1046b4467ac3
+1	1567	8040214279973433	CMakeFiles/GLRender.dir/src/main/cpp/GLRender.cpp.o	ae9631c4f246ef70
+21	1651	8040214281671019	CMakeFiles/WindowsLauncher.dir/src/main/cpp/WindowsLauncher.cpp.o	bd89a71154ce1da4
+453	631	8040217382766030	CMakeFiles/Matrix.dir/src/main/cpp/Matrix.cpp.o	2e41b3c5044ace00
+631	750	8040217383907573	../../../../build/intermediates/cxx/Debug/a36x3r3t/obj/x86_64/libMatrix.so	907090d11fdd6385
+10	1122	8040217387462630	../../../../build/intermediates/cxx/Debug/a36x3r3t/obj/x86_64/libWindowsLauncher.so	a9420cebf766a6f
+1122	1437	8040217390670189	../../../../build/intermediates/cxx/Debug/a36x3r3t/obj/x86_64/libGLRender.so	aab97c042377c52c
